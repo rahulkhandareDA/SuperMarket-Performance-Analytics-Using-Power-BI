@@ -127,5 +127,5 @@ Based on the insights above, the following actions are recommended for leadershi
 
 - Delivery performance analysis assumes shipment and order dates were correctly recorded.
 
-## **Skills: ETL, Power BI, DAX, Data Analysis, Critical thinking, Business intelligence**
+# **Skills: ETL, Power BI, DAX, Data Analysis, Critical thinking, Business intelligence**
 
