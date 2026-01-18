@@ -61,6 +61,8 @@ Over the two-year period, the supermarket generated **1.57M** in total sales, bu
 
 - Sales increased from **0.56M in 2019 to 1.0M in 2020 (~79% YoY growth)**, while profit grew **only from 83K to 93K (~12% growth)**, indicating that revenue growth did not scale proportionally with profitability.
 
+_Visualization: KPI cards, Slicers for filter_
+
 ### Regional Performance & Efficiency
 
 - The **West region emerged as the strongest performer**, contributing 0.52M in sales (33% of total) and 68K in profit **(39% of total)**, making it the most operationally efficient region.
@@ -68,6 +70,8 @@ Over the two-year period, the supermarket generated **1.57M** in total sales, bu
 - The **Central region** generated 0.34M in sales (22%) but only 27K in profit (15%), **suggesting margin inefficiencies**.
 
 - Despite **lower sales** of 0.25M (16%), the **South region** matched Central’s profit at 27K, indicating **higher profit per unit sold** and better margin control.
+  
+_Visualization: Line chart, Slicers for regional filter_
 
 ### Category Mix & Revenue Contribution
 
@@ -75,21 +79,25 @@ Over the two-year period, the supermarket generated **1.57M** in total sales, bu
 
 - Technology and Furniture together accounted for the remaining ~59% of sales, presenting opportunities to optimize category mix toward higher-margin products.
 
+_Visualization: Stacked Bar Chart_
 
 ### Time-Based Profitability Trends
 
-- In October 2019, profit dropped sharply to $383, and in October 2020, the business recorded a ~2K loss, indicating recurring operational or pricing challenges during this period.
+- In October 2019, profit dropped sharply to $383, and in October 2020, the **business recorded a ~2K loss**, indicating recurring operational or pricing challenges during this period.
 
 - March 2020 delivered 14K in profit, with the West region contributing ~64% (9K), reinforcing its strategic importance.
 
 - **December sales more than doubled YoY**, rising from 78K in 2019 to 166K in 2020 (~113% growth). However, **profit declined from 18K to 8K**, clearly signaling **margin erosion** during peak seasonal demand.
 
+_Visualization: Line Chart, KPI Cards_
 
 ### Sales Forecast (Q1 2021)
 
 - Based on the strong upward trend observed in Q4 2020, projected sales are 146K in January 2021, 150K in February 2021, and 154K in March 2021.
 
 - This represents a **~5.5% growth across Q1 2021**, supporting proactive inventory, staffing, and sales planning decisions.
+
+_Visualization: Line Chart along with forecast_
 
 **You can see the forecast visual here:**
 
@@ -118,4 +126,6 @@ Based on the insights above, the following actions are recommended for leadershi
 - Outlier months were retained to reflect real business volatility.
 
 - Delivery performance analysis assumes shipment and order dates were correctly recorded.
+
+## **Skills: ETL, Power BI, DAX, Data Analysis, Critical thinking, Business intelligence**
 
