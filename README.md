@@ -16,6 +16,12 @@ From the perspective of a business data analyst working within the organization,
 
 An interactive **Power BI dashboard** was built using **Power Query** for data transformation and **DAX** for advanced metric calculation. 
 
+<img src="Supermarket.Dash.png" width="900">
+
+### Useful Links: 
+
+**You can access the Power BI file** [HERE](SupermarketPerformanceAnalytics.pbix)
+
 ## Data Structure & Initial Checks
 
 The analysis is based on a single consolidated fact table named Supermarket_data, containing 5,901 rows of transactional records. Rather than a multi-table warehouse, this dataset represents a flattened structure combining order, customer, product, and logistics attributes in one table.
@@ -85,6 +91,9 @@ Over the two-year period, the supermarket generated **1.57M** in total sales, bu
 
 - This represents a **~5.5% growth across Q1 2021**, supporting proactive inventory, staffing, and sales planning decisions.
 
+**You can see the forecast visual here:**
+
+<img src="image.png" width="900">
 
 ## Recommendations
 
