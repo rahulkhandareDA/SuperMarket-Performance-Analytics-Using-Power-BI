@@ -20,7 +20,7 @@ An interactive **Power BI dashboard** was built using **Power Query** for data t
 
 ### Useful Links: 
 
-**You can access the Power BI file** [HERE](Supermarket Performance Analytics.pbix)
+**You can downloaded the interactive Power BI Dashboard** [HERE](https://github.com/rahulkhandareDA/SuperMarket-Performance-Analytics-Using-Power-BI/blob/main/Supermarket%20Performance%20Analytics.pbix)
 
 ## Data Structure & Initial Checks
 
